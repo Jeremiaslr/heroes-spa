@@ -8,40 +8,6 @@
   ],
   "heroes": [
     {
-      "id": "dc-batman",
-      "superhero": "Batman",
-      "publisher": "DC Comics",
-      "alter_ego": "Bruce Wayne",
-      "first_appearance": "Detective Comics #27",
-      "characters": "Bruce Wayne",
-      "alt_img": "https://www.toysrus.es/medias/?context=bWFzdGVyfHByb2R1Y3RfaW1hZ2VzfDQxNDM0fGltYWdlL2pwZWd8YUdFM0wyaGtNQzh4TVRVek5Ea3lOalkwTXpJek1BfGE2YjhlZWNlZjMyZjM3MjkxNWFkYTE2ODgwNTJkZDk2MDhiZmNhYzQ4ODczNjEwYTEzNDIzYzg2NTMxY2FiYWI"
-    },
-    {
-      "id": "dc-superman",
-      "superhero": "Superman",
-      "publisher": "DC Comics",
-      "alter_ego": "Kal-El",
-      "first_appearance": "Action Comics #1",
-      "characters": "Kal-El",
-      "alt_img": "https://comicvine.gamespot.com/a/uploads/scale_small/11111/111113340/9200557-00_superman_03.jpg"
-    },
-    {
-      "id": "dc-flash",
-      "superhero": "Flash",
-      "publisher": "DC Comics",
-      "alter_ego": "Jay Garrick",
-      "first_appearance": "Flash Comics #1",
-      "characters": "Jay Garrick, Barry Allen, Wally West, Bart Allen"
-    },
-    {
-      "id": "dc-green",
-      "superhero": "Green Lantern",
-      "publisher": "DC Comics",
-      "alter_ego": "Alan Scott",
-      "first_appearance": "All-American Comics #16",
-      "characters": "Alan Scott, Hal Jordan, Guy Gardner, John Stewart, Kyle Raynor, Jade, Sinestro, Simon Baz"
-    },
-    {
       "id": "dc-arrow",
       "superhero": "Green Arrow",
       "publisher": "DC Comics",
@@ -168,15 +134,6 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
-    },
-    {
-      "id": "ubvgn0F",
-      "superhero": "Homelander",
-      "publisher": "Marvel Comics",
-      "alter_ego": "John Gillman",
-      "first_appearance": "The Boys TV Show",
-      "characters": "Antony Starr",
-      "alt_img": "https://elcomercio.pe/resizer/iny8JOSfb7HFNRH2MjUMSl3fJxk=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/OA3JOCS4ZVDDRBTLZOSDKJ7LSM.jpg"
     }
   ]
 }
